@@ -116,13 +116,6 @@ Maintained production databases and Linux servers for telecom systems, handled S
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DostMuhammadSani&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMuhammadSani&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <h3 align="center">📩 Have a project in mind? <a href="mailto:dostmuhammadsani@gmail.com">Let's talk!</a></h3>
