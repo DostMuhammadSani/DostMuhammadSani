@@ -15,7 +15,7 @@
 I'm a **Full Stack Developer** with a **BSCS from Air University, Islamabad** and hands-on experience shipping and maintaining real production systems.
 
 - 📱 Currently building **EduVerse Smart Learning**, a multi-tenant school platform live on the **App Store and Google Play**
-- 🗄️ Maintaining production **databases and Linux servers** for telecom systems at **Huawei Pakistan**
+- 🗄️ Previously maintained production **databases and Linux servers** for telecom systems at **Huawei Pakistan**
 - 🎓 **Meta Front-End Development** and **IBM AI** certified
 - 🌍 Open to **freelance and remote projects** with clients worldwide
 
@@ -90,10 +90,10 @@ A housing society management system that runs a residential community's operatio
 ### 📡 CMPAK IPCC & SMSC (Huawei Pakistan)
 `SQL` `Linux`
 
-Maintenance of the databases and servers behind a mobile operator's **contact center (IPCC)** and **SMS delivery (SMSC)** systems.
+Maintained the databases and servers behind a mobile operator's **contact center (IPCC)** and **SMS delivery (SMSC)** systems.
 
-- Health checks, SQL data validation, backups and performance monitoring
-- Troubleshooting production incidents and keeping both systems available
+- Ran health checks, SQL data validation, backups and performance monitoring
+- Troubleshot production incidents and kept both systems available and stable
 
 ---
 
@@ -102,8 +102,8 @@ Maintenance of the databases and servers behind a mobile operator's **contact ce
 **Full Stack Developer — ArcNova Technologies** · *July 2025 – Present (Part-Time)*
 Building EduVerse end to end: React Native app, Node.js APIs, Azure SQL database and Azure DevOps.
 
-**Backend Maintenance Engineer — Huawei Pakistan** · *July 2025 – Present (Full-Time)*
-Maintaining production databases and Linux servers for telecom systems.
+**Backend Maintenance Engineer — Huawei Pakistan** · *July 2025 – November 2026 (Full-Time)*
+Maintained production databases and Linux servers for telecom systems, handled SQL checks and troubleshot production incidents.
 
 ---
 
